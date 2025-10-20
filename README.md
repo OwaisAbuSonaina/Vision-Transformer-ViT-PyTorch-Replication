@@ -4,6 +4,7 @@
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![Paper](https://img.shields.io/badge/Paper-An%20Image%20is%20Worth%2016x16%20Words-blue)](https://arxiv.org/abs/2010.11929)
+
 >  A clean, modular replication of the **Vision Transformer (ViT)** model in **PyTorch**, built from scratch to explore how Transformers can perform image classification.
 
 ---
