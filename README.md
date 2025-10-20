@@ -1,5 +1,3 @@
----
-
 # 🧠 Vision Transformer (ViT) — PyTorch Replication
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
